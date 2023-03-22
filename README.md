@@ -1,5 +1,4 @@
 # COVID19 Mortality Prediction Using Machine Learning
-__
 Repository of files used for the implementation of Machine Learning Algorithms used for the prediction of COVID-19 mortality in hospitalized patients from Brazil. 
 
 ## Datasets 
